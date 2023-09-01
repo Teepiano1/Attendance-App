@@ -1,0 +1,121 @@
+{
+  "getAllStudentCode": [
+    "DGR3",
+    "DES2",
+    "GRS3",
+    "HRT3",
+    "HJR2"
+  ],
+  "getAllClockedInStudent": [
+    {
+      "fullName": "busuyi olabode",
+      "code": "f3r5",
+      "lga": "ikeja",
+      "timeIn": "8:8",
+      "timeOut": "8:11",
+      "isClockedIn": false,
+      "id": 1689664127750
+    },
+    {
+      "fullName": "adekalu grace",
+      "code": "dDs2",
+      "lga": "tolulope",
+      "timeIn": "8:19",
+      "timeOut": "8:19",
+      "isClockedIn": false,
+      "id": 1689664772167
+    },
+    {
+      "fullName": "tee pee",
+      "code": "dDs2",
+      "lga": "araromi ifelodu",
+      "timeIn": "9:21",
+      "timeOut": "9:33",
+      "isClockedIn": false,
+      "id": 1689668473575
+    },
+    {
+      "fullName": "OLADIPUPO TAIWO",
+      "code": "dDs2",
+      "lga": "isawo",
+      "timeIn": "9:24",
+      "timeOut": "15:42",
+      "isClockedIn": false,
+      "id": 1689668649565
+    },
+    {
+      "fullName": "COSMO PET",
+      "code": "jdj2",
+      "lga": "ikeja",
+      "timeIn": "9:28",
+      "timeOut": "9:33",
+      "isClockedIn": false,
+      "id": 1689668897888
+    },
+    {
+      "fullName": "busuyi olabode",
+      "lga": "ikeja",
+      "code": "f3r5",
+      "timeIn": "15:8",
+      "id": 1689689324087,
+      "isClockedIn": true
+    },
+    {
+      "fullName": "COSMO PET",
+      "lga": "tolulope",
+      "code": "HJR2",
+      "timeIn": "10:13",
+      "id": 1689758030735,
+      "isClockedIn": true
+    },
+    {
+      "fullName": "oni",
+      "code": "HJR2",
+      "lga": "olabode",
+      "timeIn": "10:21",
+      "timeOut": "15:42",
+      "isClockedIn": false,
+      "id": 1689758506305
+    },
+    {
+      "fullName": "oluwabunmi",
+      "lga": "ikorodu",
+      "timeIn": "12:48",
+      "timeOut": "15:42",
+      "isClockedIn": false,
+      "id": 1689767331999
+    },
+    {
+      "fullName": "toheed aduke",
+      "lga": "tolulope",
+      "timeIn": "13:7",
+      "timeOut": "15:41",
+      "isClockedIn": false,
+      "id": 1689768476567
+    },
+    {
+      "fullName": "fhfgfhj",
+      "lga": "jgj",
+      "timeIn": "15:31",
+      "id": 1689863487315,
+      "isClockedIn": true
+    },
+    {
+      "fullName": "gfggh",
+      "lga": "ghhhg",
+      "timeIn": "16:15",
+      "timeOut": "17:4",
+      "isClockedIn": false,
+      "id": 1689866130455
+    },
+    {
+      "fullName": "COSMO PET",
+      "code": "HJR2",
+      "lga": "tolulope",
+      "timeIn": "15:6",
+      "timeOut": "16:48",
+      "isClockedIn": false,
+      "id": 1690553175950
+    }
+  ]
+}
